@@ -1,0 +1,141 @@
+.a {
+    background: gray;
+    width: 497px;
+    height: 100px;
+    line-height: 100px;
+}
+.b {
+    background: silver;
+    width: 300px;
+}
+.c {
+    background: indigo;
+    width: 195px;
+}
+.bc {
+    display: flex;
+    width: 700px;
+}
+.abc {
+    border: 3px solid darkgray;
+    width: 500px;
+    color: white;
+    text-align: center;
+}
+.mar1 {
+    margin: 1px;
+}
+.hlh200 {
+    line-height: 200px;
+    height: 200px;
+}
+/*-______________________________________________2______________________________________________________*/
+.wrapper {
+    background: silver;
+    width: 500px;
+    border: darkgray solid 2px;
+    text-align: center;
+}
+.ma {
+    display: flex;
+    height: 200px;
+}
+.header {
+    background: blue;
+}
+.nav {
+    background: darkblue;
+}
+.footer {
+    background: cornflowerblue;
+}
+.main {
+    width: 400px;
+    background: lightblue;
+}
+.aside {
+    width: 100px;
+    background: cadetblue;
+}
+.hlh50 {
+    height: 50px;
+    line-height: 50px;
+}
+.lh200 {
+    line-height: 200px;
+}
+/*----------------------------------------------------------2-1----------------------------------------------*/
+.wrap {
+    width: 500px;
+    border: darkgray solid 2px;
+    display: flex;
+    flex-direction: column;
+    margin: 7px;
+    text-align: center;
+}
+.h {
+    background: greenyellow;
+}
+.f {
+    background: burlywood;
+}
+.b1 {
+    height: 308px;
+    line-height: 308px;
+    width: 100px;
+    background: violet;
+}
+.two_b{
+    flex-direction: column;
+}
+.aqua {
+    background: aqua;
+}
+.w400 {
+    width: 400px;
+}
+.hlh100 {
+    line-height: 100px;
+    height: 100px;
+}
+.hlh150 {
+    line-height: 150px;
+    height: 150px;
+}
+.border_m {
+    border: darkgray solid 1px;
+    margin: 3px;
+}
+.d_flex {
+    display: flex;
+}
+/*-------------------------------------2-2---------------------------------------*/
+.box1 {
+    height: 150px;
+    background: blue;
+    line-height: 150px;
+}
+.whb {
+    width: 120px;
+    height: 150px;
+    background: darkblue;
+    line-height: 120px;
+}
+.box5 {
+    height: 300px;
+    line-height: 300px;
+    background: blue;
+}
+p {
+    text-align: center;
+    font-size: 18px;
+    color: beige;
+}
+.o_t_t {
+    display: flex;
+    column-gap: 20px;
+    margin-top: 10px;
+}
+.w400 {
+    width: 400px;
+}
